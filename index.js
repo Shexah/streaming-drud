@@ -29,4 +29,4 @@ client.on("ready", () => {
 })
 
 keepAlive()
-client.login(TOKEN)
+client.login(MTAwMjY0ODE4ODMwNzY1Mjc2MA.Gkuuf2.18di_unpcccV-_gv3wsw-ilU2BVFFbzm58Fd8M)
